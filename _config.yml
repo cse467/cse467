@@ -37,8 +37,6 @@ permalink: pretty
 # Collections for website data
 collections:
   staffers:
-    output: true
-    permalink: /staff/:title/
   modules:
   schedules:
   announcements:
