@@ -8,14 +8,33 @@ seo:
   name: Data and Information Security 
 ---
 
-# Data and Information Security 
+# Course overview
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This course is intended to provide students with an introductory understanding of the technical and behavioral mechanisms for information security and privacy. Students will learn how the security and privacy of information can be attacked, and what are the current mitigation strategies in each case. In a semester-long project, students will learn how to apply best practices to enhance privacy and security of a computing system while keeping it usable for the consumers.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+# Prerequisites
+Students need to have knowledge of
+- Linear algebra
+- Basic Calculus
+- Basic Statistics and Probability Theory
+- Algorithms and Data structures
+- Basics of database systems
+- Python/R programming language (or willingness to learn on their own)
+
+## Course materials
+We will follow chapters from multiple books, including
+Introduction to Computer Security, Matt Bishop, ISBN: 0321247442
+The Algorithmic Foundations of Differential Privacy, by Cynthia Dwork and Aaron Roth
+We will make use of many other online resources including tutorials and frameworks:
+
+- (Google’s DP Library)[https://github.com/google/differential-privacy]
+PyTorch Opacus
+RAPPOR
+OpenDP
+TensorFlow Privacy
+OpenMined
+Ektelo
+
 
 Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
 
