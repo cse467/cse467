@@ -8,11 +8,11 @@ seo:
   name: Data and Information Security 
 ---
 
-# Course overview
+## Course overview
 
 This course is intended to provide students with an introductory understanding of the technical and behavioral mechanisms for information security and privacy. Students will learn how the security and privacy of information can be attacked, and what are the current mitigation strategies in each case. In a semester-long project, students will learn how to apply best practices to enhance privacy and security of a computing system while keeping it usable for the consumers.
 
-# Prerequisites
+## Prerequisites
 Students need to have knowledge of
 - Linear algebra
 - Basic Calculus
@@ -35,3 +35,21 @@ We will make use of many other online resources including tutorials and framewor
 - [OpenMined](https://github.com/OpenMined/OM-Welcome-Package)
 - [Ektelo](https://ektelo.github.io/)
 
+## Tentative Topics (subject to changes)
+- Information security and privacy: access control and trust models
+- Identification and inference attacks
+- De-identification mechanisms
+- Basics of Cryptography 
+- Secret sharing and Secure Multi-party Computation
+- Basics of Predictive Machine Learning
+- Data utility and privacy trade-offs.
+- Private Information Disclosure by ML models
+- Basics of Differential Privacy
+- Basics of Federated Machine Learning
+- Differential Privacy with Federated Learning
+- Secure and Private implementations of ML models
+- Causal mechanisms for privacy-preserving machine learning
+- Private Information Retrieval
+- Interdependence in information security and privacy
+- Usability issues in security and privacy engineering
+- Privacy and security issues that are unsolvable by technology alone.
