@@ -23,8 +23,10 @@ Students need to have knowledge of
 
 ## Course materials
 We will follow chapters from multiple books, including
-Introduction to Computer Security, Matt Bishop, ISBN: 0321247442
-The Algorithmic Foundations of Differential Privacy, by Cynthia Dwork and Aaron Roth
+[Introduction to Computer Security](https://www.amazon.com/Introduction-Computer-Security-Matt-Bishop/dp/0321247442) by Matt Bishop and
+[The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) by Cynthia Dwork and Aaron Roth.
+
+
 We will make use of many other online resources including tutorials and frameworks:
 
 - [Google’s DP Librar](https://github.com/google/differential-privacy)
