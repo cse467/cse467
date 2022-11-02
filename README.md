@@ -12,6 +12,11 @@ seo:
 
 This course is intended to provide students with an introductory understanding of the technical and behavioral mechanisms for information security and privacy. Students will learn how the security and privacy of information can be attacked, and what are the current mitigation strategies in each case. In a semester-long project, students will learn how to apply best practices to enhance privacy and security of a computing system while keeping it usable for the consumers.
 
+## Course activities and grading components
+- In-class quizzes
+- 3 to 4 Assignments
+- One Term project
+
 ## Prerequisites
 Students need to have knowledge of
 - Linear algebra
