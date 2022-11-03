@@ -10,4 +10,5 @@ title: Resources
 
 
 ## External resources
+- [Threat modeling using LINDDUN](https://www.linddun.org)
 - [https://github.com/hysnsec/awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling)
