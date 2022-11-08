@@ -14,7 +14,7 @@ This course is intended to provide students with an introductory understanding o
 
 ## Course activities and grading components
 - In-class quizzes
-- 3 to 4 Assignments
+- 3 to 4 Homeworks
 - One Term project
 
 ## Prerequisites
