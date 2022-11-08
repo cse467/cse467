@@ -25,3 +25,12 @@ title: Resources
 - [Threat modeling using LINDDUN](https://www.linddun.org)
 - [Amazing resources on Differential Privacy](https://differentialprivacy.org/resources/)
 - [https://github.com/hysnsec/awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling)
+
+## Programming Frameworks and Libraries
+- [Google’s DP Librar](https://github.com/google/differential-privacy)
+- [PyTorch Opacus](https://opacus.ai/)
+- [RAPPOR](https://github.com/google/rappor)
+- [OpenDP](https://github.com/opendifferentialprivacy/)
+- [TensorFlow Privacy](https://github.com/tensorflow/privacy)
+- [OpenMined](https://github.com/OpenMined/OM-Welcome-Package)
+- [Ektelo](https://ektelo.github.io/)
