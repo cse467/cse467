@@ -44,6 +44,7 @@ We will make use of many other online resources including tutorials and framewor
 
 ## Tentative Topics (subject to changes)
 - Information security and privacy: access control and trust models
+- Threat modeling
 - Identification and inference attacks
 - De-identification mechanisms
 - Basics of Cryptography 
