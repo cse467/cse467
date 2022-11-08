@@ -27,20 +27,8 @@ Students need to have knowledge of
 - Python/R programming language (or willingness to learn on their own)
 
 ## Course materials
-We will follow chapters from multiple books, including
-[Introduction to Computer Security](https://www.amazon.com/Introduction-Computer-Security-Matt-Bishop/dp/0321247442) by Matt Bishop and
-[The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) by Cynthia Dwork and Aaron Roth.
+We will follow multiple books, tutorials, frameworks and libraries. See the [Resources](https://cse467.github.io/s23/resources/) page.
 
-
-We will make use of many other online resources including tutorials and frameworks:
-
-- [Google’s DP Librar](https://github.com/google/differential-privacy)
-- [PyTorch Opacus](https://opacus.ai/)
-- [RAPPOR](https://github.com/google/rappor)
-- [OpenDP](https://github.com/opendifferentialprivacy/)
-- [TensorFlow Privacy](https://github.com/tensorflow/privacy)
-- [OpenMined](https://github.com/OpenMined/OM-Welcome-Package)
-- [Ektelo](https://ektelo.github.io/)
 
 ## Tentative Topics (subject to changes)
 - Information security and privacy: access control and trust models
