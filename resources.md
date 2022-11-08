@@ -11,6 +11,7 @@ title: Resources
 - [A Pragmatic Introduction to Secure Multi-Party Computation by David Evans, Vladimir Kolesnikov and Mike Rosulek] (https://securecomputation.org)
 - [Understanding Cryptography](https://www.crypto-textbook.com/)
 - [The deep learning book](https://www.deeplearningbook.org)
+- [Modern Socio-Technical Perspectives on Privacy](https://link.springer.com/book/10.1007/978-3-030-82786-1)
 
 
 ## Tutorials
