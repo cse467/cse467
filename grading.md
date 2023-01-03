@@ -73,4 +73,4 @@ You will complete the project in multiple milestones, and each milestone will be
 
 
 ## Rubric
-![](assets/images/Rubric.png?raw=true)
+![](https://github.com/cse467/s23/blob/main/assets/images/Rubric.png?raw=true)
