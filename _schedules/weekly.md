@@ -19,19 +19,19 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
-  - name: Monday
+  - name: Monday 
   - name: Tuesday
     events:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: [Tempe - BAC16](http://www.asu.edu/map/interactive/?psCode=BAC)
+        location: Tempe - BAC16
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: [Tempe - BAC16](http://www.asu.edu/map/interactive/?psCode=BAC)
+        location: Tempe - BAC16
   - name: Friday
 ---
