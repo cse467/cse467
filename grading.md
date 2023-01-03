@@ -25,10 +25,10 @@ description: >-
 
 
 **Term project 35%**  <br />Teams of 2–4 students will work on a novel, potentially impactful, and interesting **research** project. The project should involve any combination of the activities: implementing prototypes, conducting experiments, collecting and analyzing data, literature review, and so on. You will submit a report describing your research, results, and conclusions. The project will be graded based on 
-1) Importance of the problem studied/potential impact of the solution
-2) Novelty of the problem or solution, or both
-3) Scientific validity of the methodology, how well you conducted your research,  the completeness of your work
-4) Quality of the writing, your ability to motivate your research, clarity in presenting the methods, drawing conclusions from your results, synthesizing knowledge and contextualizing findings from prior research, as well as its conciseness (see the end-of-page rubrics).
+1. Importance of the problem studied/potential impact of the solution
+2. Novelty of the problem or solution, or both
+3. Scientific validity of the methodology, how well you conducted your research,  the completeness of your work
+4. Quality of the writing, your ability to motivate your research, clarity in presenting the methods, drawing conclusions from your results, synthesizing knowledge and contextualizing findings from prior research, as well as its conciseness (see the end-of-page rubrics).
 
 
 ## Project milestones 
