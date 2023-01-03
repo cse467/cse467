@@ -32,7 +32,10 @@ description: >-
 
 
 ## Project milestones 
-You will complete the project in multiple milestones, and each milestone will be graded *independently* of the other parts. </br>
+You will complete the project in multiple milestones, and each milestone will be graded *independently* of the other parts.
+
+
+
 1)  **Proposal (5):**  By the end of Week 3, submit a short (2-page max) proposal of the project. Content:
     * Name of project team and names of students on the team
     * Problem statement, Research questions and hypotheses (if any), or expected contribution
