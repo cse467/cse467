@@ -24,11 +24,11 @@ description: >-
 **Assignments 40%**  <br />There will be 4 homework assignments and will involve various tasks: programming, mathematical problem solving, designing system prototypes following privacy and security principles, explaining concepts taught in the course, and so on. Written assignments will be graded based on the clarity and validity of your arguments and analysis following the rubric at the end of this page. You can submit one assignment up to 48 hours late without any penalty. 10% points will be subtracted for every 24-hours delay.
 
 
-**Term project 35%**  <br />Teams of 2–4 students will work on a novel, potentially impactful, and interesting **research** project. The project should involve any combination of the activities: implementing prototypes, conducting experiments, collecting and analyzing data, literature review, and so on. You will submit a report describing your research, results, and conclusions. The project will be graded based on 
-1. Importance of the problem studied/potential impact of the solution
-2. Novelty of the problem or solution, or both
-3. Scientific validity of the methodology, how well you conducted your research,  the completeness of your work
-4. Quality of the writing, your ability to motivate your research, clarity in presenting the methods, drawing conclusions from your results, synthesizing knowledge and contextualizing findings from prior research, as well as its conciseness (see the end-of-page rubrics).
+**Term project 35%**  <br />Teams of 2–4 students will work on a novel, potentially impactful, and interesting **research** project. The project should involve any combination of the activities: implementing prototypes, conducting experiments, collecting and analyzing data, literature review, and so on. You will submit a report describing your research, results, and conclusions. The project will be graded based on - </br>
+* Importance of the problem studied/potential impact of the solution
+* Novelty of the problem or solution, or both
+* Scientific validity of the methodology, how well you conducted your research,  the completeness of your work
+* Quality of the writing, your ability to motivate your research, clarity in presenting the methods, drawing conclusions from your results, synthesizing knowledge and contextualizing findings from prior research, as well as its conciseness (see the end-of-page rubrics).
 
 
 ## Project milestones 
@@ -54,11 +54,11 @@ You will complete the project in multiple milestones, and each milestone will be
 
 
 ## Tips about the final project
-1) You should start thinking about the final project very soon and form a team with those who have similar interests.
-2) Some projects from another similar course have been listed in canvas that you can use as examples of interesting topics.
-3) You may find ideas for possible project topics by “glancing ahead” at the course’s topics for future weeks. If some topic seems interesting but you are not very familiar with it, talk with me or the TAs.
-4) You may also find ideas by checking websites such as EPIC (consumer rights advocacy group: http://www.epic.org/) or IAPP (Privacy consortium: http://www.privacyassociation.org/), or Common Sense Media (https://www.commonsense.org/).
-5) Other resources 
+* You should start thinking about the final project very soon and form a team with those who have similar interests.
+* Some projects from another similar course have been listed in canvas that you can use as examples of interesting topics.
+* You may find ideas for possible project topics by “glancing ahead” at the course’s topics for future weeks. If some topic seems interesting but you are not very familiar with it, talk with me or the TAs.
+* You may also find ideas by checking websites such as EPIC (consumer rights advocacy group: http://www.epic.org/) or IAPP (Privacy consortium: http://www.privacyassociation.org/), or Common Sense Media (https://www.commonsense.org/).
+* Other resources 
     * https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1745
     * https://nishanthjkumar.com/A-Beginner's-Guide-to-Undergrad-CS-Research/
     * https://www.bu.edu/synapse/2009/04/27/tips-n-tricks-part-i/
