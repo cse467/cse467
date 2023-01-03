@@ -24,7 +24,7 @@ description: >-
 **Assignments 40%**  <br />There will be 4 homework assignments and will involve various tasks: programming, mathematical problem solving, designing system prototypes following privacy and security principles, explaining concepts taught in the course, and so on. Written assignments will be graded based on the clarity and validity of your arguments and analysis following the rubric at the end of this page. You can submit one assignment up to 48 hours late without any penalty. 10% points will be subtracted for every 24-hours delay.
 
 
-**Term project 35%**  <br />Teams of 2–4 students will work on a novel, potentially impactful, and interesting **research** project. The project should involve any combination of the activities: implementing prototypes, conducting experiments, collecting and analyzing data, literature review, and so on. You will submit a report describing your research, results, and conclusions. The project will be graded based on - </br>
+**Term project 35%**  <br />Teams of 2–4 students will work on a novel, potentially impactful, and interesting **research** project. The project should involve any combination of the activities: implementing prototypes, conducting experiments, collecting and analyzing data, literature review, and so on. You will submit a report describing your research, results, and conclusions. The project will be graded based on -
 * Importance of the problem studied/potential impact of the solution
 * Novelty of the problem or solution, or both
 * Scientific validity of the methodology, how well you conducted your research,  the completeness of your work
@@ -32,7 +32,7 @@ description: >-
 
 
 ## Project milestones 
-You will complete the project in multiple milestones, and each milestone will be graded *independently* of the other parts.
+You will complete the project in multiple milestones, and each milestone will be graded *independently* of the other parts. </br>
 1)  **Proposal (5):**  By the end of Week 3, submit a short (2-page max) proposal of the project. Content:
     * Name of project team and names of students on the team
     * Problem statement, Research questions and hypotheses (if any), or expected contribution
