@@ -10,4 +10,13 @@ Email: rakibul.hasan@asu.edu\
 Office hour: TBD
 
 ## Teaching Assistants
-TBD
+**Protik Bose Pranto**\
+Email: ppranto@asu.edu\
+Office hour: TBD
+
+
+
+
+**Waqar Hassan Khan**\
+Email: wkhan17@asu.edu\
+Office hour: TBD
