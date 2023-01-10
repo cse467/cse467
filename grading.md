@@ -69,7 +69,7 @@ You will complete the project in multiple milestones, and each milestone will be
 
 
 ## Bonus points and assignment revisions
-* 1 bonus point when you get at least 5 likes/thanks for answering a question posted on discord/canvas about the course material or homeworks (note, you may discuss difficulties you are facing when working on a  homework, e.g., setting up the programming environment, but cannot post solutions or steps to solve a problem). You can earn this point multiple times over the semester.
+* 1 bonus if at least 5 people finds your answer to a question useful. Questions must be non-trivial to answer. The instructor and TAs reserve exclusive rights to determine if a post deserve the bonus point.
 * 1 bonus point for asking a thought-provoking question during the lecture. You can earn this point multiple times over the semester.
 * 1 bonus point if you submit a homework assignment at least one hour before the deadline. You can earn this point multiple times over the semester.
 * You can revise and resubmit one homework assignment within 2 weeks of the initial deadline to improve your score (up to 90% of the full marks for that assignment)
