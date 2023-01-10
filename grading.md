@@ -75,5 +75,5 @@ You will complete the project in multiple milestones, and each milestone will be
 * You can revise and resubmit one homework assignment within 2 weeks of the initial deadline to improve your score (up to 90% of the full marks for that assignment)
 
 
-## Rubric
+## Rubric (Copied from https://www.cylab.cmu.edu/education/course-list/privacy-digital-age.html)
 ![](https://github.com/cse467/s23/blob/main/assets/images/Rubric.png?raw=true)
