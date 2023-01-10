@@ -76,4 +76,8 @@ You will complete the project in multiple milestones, and each milestone will be
 
 
 ## Rubric (Copied from https://www.cylab.cmu.edu/education/course-list/privacy-digital-age.html)
-![](https://github.com/cse467/s23/blob/main/assets/images/Rubric.png?raw=true)
+<!-- ![](https://github.com/cse467/s23/blob/main/assets/images/Rubric.png?raw=true) -->
+
+|                     | Objectives Rubric |       |               |
+|---------------------|-------------------|-------|-------------- |
+| Performance Element | Sophisticated | Competent | Not Competent |
