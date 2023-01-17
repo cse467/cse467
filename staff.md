@@ -19,4 +19,5 @@ Office hour: TBD
 
 **Waqar Hassan Khan**\
 Email: wkhan17@asu.edu\
-Office hour: TBD
+Office hour: Wednessday 5:00 PM - 6:00 PM
+Zoom link: https://asu.zoom.us/j/7382514614
