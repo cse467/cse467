@@ -12,7 +12,8 @@ Office hour: TBD
 ## Teaching Assistants
 **Protik Bose Pranto**\
 Email: ppranto@asu.edu\
-Office hour: TBD
+Office hour: Monday 3:00 PM - 4:00 PM\
+Zoom link: https://asu.zoom.us/j/86243435219
 
 
 
