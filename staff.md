@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 ## Instructor
 **Dr. Rakibul Hasan**\
 Email: rakibul.hasan@asu.edu\
-Office hour: TBD
+Office hour: Thursdays 1 to 2.30 (BYENG 470)
 
 ## Teaching Assistants
 **Protik Bose Pranto**\
