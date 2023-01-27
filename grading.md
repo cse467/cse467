@@ -18,7 +18,7 @@ description: >-
 ## Class attendance
 
 
-**In-class quizzes: 25% (26 quizz)**  <br /> Short Quizzes will be administered at the beginning or end of almost every lecture (excluding Lecture 1). They will be short, and mainly aimed at making sure that you were able to follow the material covered during the Lecture on that day or the previous day. The worst-performing 1 Quiz across all lectures will not count towards your grade
+**In-class quizzes: 25% (26 quizz)**  <br /> Short Quizzes will be administered at the beginning or end of almost every lecture (excluding Lecture 1). They will be short, and mainly aimed at making sure that you were able to follow the material covered during the Lecture on that day or the previous day. The worst-performing 5 quizzes across all lectures will not count towards your grade
 
 
 **Assignments 40%**  <br />There will be 4 homework assignments and will involve various tasks: programming, mathematical problem solving, designing system prototypes following privacy and security principles, explaining concepts taught in the course, and so on. Written assignments will be graded based on the clarity and validity of your arguments and analysis following the rubric at the end of this page. You can submit one assignment up to 48 hours late without any penalty. 10% points will be subtracted for every 24-hours delay.
